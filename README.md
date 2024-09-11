@@ -1,23 +1,23 @@
-## Fernando MANTILLA  👋
+## Fernando MANTILLA  👋 :technologist:
 ###### Data Engineer at Avanade 
 
 ### Experience 
 
 > #### Consultant Data Engineering 2022- Currently
-> Client: TotalEnergies:
-> Mise à disposition de l'outil Talend, pour les utilisateurs, en executant ces jobs dans les services cloud existentes à fin d'eviter la fuite de données hors l'environemment TotalEnergies
+> **Client:** TotalEnergies:
+> L'outil Talend est mis à disposition des utilisateurs pour qu'ils puissent exécuter leurs tâches dans les services cloud existants, afin d'éviter toute fuite de données hors de l'environnement TotalEnergies.
 > - :gem: AWS, Azure, Talend, Docker
 
 > #### Data Enginer / Analyst 2019 - 2022
-> Client: Enedis: 
-> Data Quality projet pour la migration d'une ancienne base de données vers une nouvelle plus performante et securisé
-* :gem: (On-Premises) R, Python, PostgreSQL, Oracle, Talend Open Studio, Power BI
+> **Client:** Enedis: 
+> Data Quality projet pour la migration d'une ancienne base de données vers une nouvelle plus performante et sécurisée
+> - :gem: (On-Premises) R, Python, PostgreSQL, Oracle, Talend Open Studio, Power BI
 
 ### :mortar_board: Formation
-> ##### Université Paris Decartes (Université Paris Cité - Universite Paris 13 2018 - 2019)
-Licence Professionnelle Métieres de l'informatique
-> ##### Servicio Nacional de Aprendizaje (SENA)
-Tecnologo en Analysis y Desarrollo de sistemas de Informacion 
+> ##### Université Paris Decartes (Université Paris Cité - Universite Paris 13. 2018 - 2019)
+- Licence Professionnelle Métieres de l'informatique
+> ##### Servicio Nacional de Aprendizaje (SENA) 2006 - 2009
+- BTS en Analyse et développement de systèmes d’information 
 
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="20" height="20"/>  Microsoft Certifications
  
