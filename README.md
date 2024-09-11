@@ -2,9 +2,9 @@
 ###### Data Engineer at Avanade 
 
 ### Experience 
-> ##### Consultant Data Engineering 2022- Currently
+> #### Consultant Data Engineering 2022- Currently
 > Client: TotalEnergies:
-> Mise à disposition de l'outil Talend, pour les utilisateurs, en executant ces jobs dans les services cloud existentes (Azure, AWS, à fin d'eviter la fuite de données hors l'environemment TotalEnergies)
+> Mise à disposition de l'outil Talend, pour les utilisateurs, en executant ces jobs dans les services cloud existentes à fin d'eviter la fuite de données hors l'environemment TotalEnergies
 > :gem: AWS, Azure, Talend, Docker
 > #### Data Enginer / Analyst 2019 - 2022
 > Client: Enedis 
