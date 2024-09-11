@@ -16,7 +16,9 @@ Tecnologo en Analysis y Desarrollo de sistemas de Informacion
 ### <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="20" height="20"/>  Microsoft Certifications
  
 > :1st_place_medal: **AZ-900** - Microsoft Azure Fundamentals
+>
 > :1st_place_medal: **DP-203** - Microsoft Azure Data Engineer Associate
+>
 > :1st_place_medal: **PL-300** - Microsoft Power BI Data Analyst Associate
 >
 > Transcriptions: https://learn.microsoft.com/en-us/users/dmantilla9/transcript/7359gi5xgnz4jml
