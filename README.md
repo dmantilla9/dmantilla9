@@ -9,7 +9,7 @@
 > #### Data Enginer / Analyst 2019 - 2022
 > Client: Enedis 
 > Data Quality projet pour la migration d'une ancienne base de données vers une nouvelle plus performante et securisé
-* :rocket: (On-Premises) R, Python, PostgreSQL, Oracle, Talend Open Studio, Power BI
+* :gem: (On-Premises) R, Python, PostgreSQL, Oracle, Talend Open Studio, Power BI
 
 ### :mortar_board: Formation
 > ##### Université Paris Decartes (Université Paris Cité - Universite Paris 13 2018 - 2019)
