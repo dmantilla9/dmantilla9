@@ -46,7 +46,8 @@
 > 4. Améliorer la qualité du rapport Power BI
 > - :dart: **(On-Premises) R, Python, PostgreSQL, Oracle, Talend Open Studio, Power BI**
 
-### :mortar_board: Formation
+###  <img src="https://cdn-icons-png.flaticon.com/512/1344/1344761.png" title="formation" alt="formation" width="20" height="20"/>
+ Formation
 > **Université Paris Decartes (Université Paris Cité - Universite Paris 13)**
 > - Licence Professionnelle Métieres de l'informatique
 > 
@@ -71,12 +72,12 @@
 > | <img src="https://miro.medium.com/v2/resize:fit:340/1*y9p2edci3p8jjc-Gt25ULw.png" title="IBM" alt="IBM" width="70" height="70"/>  | Data Engineering Essentials | [IBM](https://www.coursera.org/account/accomplishments/verify/Q83FV5E3Q359) |
 > | <img src="https://eu.images.credential.net/badge/open-graph/p2imjeau_1726152403533_badge.png" title="Scrum" alt="Scrum" width="70" height="70"/>          | Scrum Foundation: Scrum Certification & the Scrum Guide | [Skillsoft](https://skillsoft.digitalbadges.skillsoft.com/42a9e9e0-63fb-4b2a-a79f-b882ea2b018d#gs.ez3i57) |
 
-### <img src="https://cdn-icons-png.flaticon.com/512/888/888878.png" title="French" alt="French" width="30" height="30"/>  Languages
+### <img src="https://cdn-icons-png.flaticon.com/512/888/888878.png" title="languages" alt="languages" width="20" height="20"/>  Languages
 
 > | Flag | Language | Level |
 > |:--------------:|-----------| ------- |
 > |<img src="https://cdn-icons-png.flaticon.com/512/3187/3187465.png" title="French" alt="French" width="30" height="30"/>    | Français | C1 |
-> |<img src="https://cdn-icons-png.flaticon.com/512/4800/4800921.png" title="English" alt="English" width="30" height="30"/>| Anglais  | A2/B1 |
+> |<img src="https://cdn-icons-png.flaticon.com/512/4800/4800921.png" title="English" alt="English" width="30" height="30"/>  | Anglais  | A2/B1 |
 > |<img src="https://cdn-icons-png.flaticon.com/512/1903/1903128.png" title="Spanish" alt="Spanish" width="30" height="30"/>  | Espagnol | C2 |
 
 
