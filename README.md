@@ -1,15 +1,15 @@
 ## Fernando MANTILLA  👋 :technologist:
 ###### Data Engineer at Avanade 
 
-### Experience 
+### <img src="https://cdn-icons-png.flaticon.com/512/3281/3281307.png" title="Exp" alt="exp" width="20" height="20"/> Experience 
 
-> #### :shield: Consultant Data Engineering 2022- Currently
+> #### <img src="https://cdn-icons-png.flaticon.com/512/6071/6071531.png" title="Exp" alt="exp" width="20" height="20"/> Consultant Data Engineering 2022- Currently
 > **Sector Energie** :battery:
 > 1. L'outil Talend est mis à disposition des utilisateurs pour qu'ils puissent exécuter leurs tâches dans les services cloud existants, afin d'éviter toute fuite de données hors de l'environnement cloud dediée au client.
 > - :dart: **AWS, Azure, Talend, Docker**
 
 
-> #### :shield: Data Enginer / Analyst 2019 - 2022
+> #### <img src="https://cdn-icons-png.flaticon.com/512/6071/6071531.png" title="Exp" alt="exp" width="20" height="20"/> Data Enginer / Analyst 2019 - 2022
 > **Secteur Public** :balance_scale:
 > 1. Migration des rapports Power BI
 > 2. Automatisation des informes Power BI en PDF avec un système de validation en Power Automate
@@ -46,15 +46,14 @@
 > 4. Améliorer la qualité du rapport Power BI
 > - :dart: **(On-Premises) R, Python, PostgreSQL, Oracle, Talend Open Studio, Power BI**
 
-###  <img src="https://cdn-icons-png.flaticon.com/512/1344/1344761.png" title="formation" alt="formation" width="20" height="20"/>
- Formation
+###  <img src="https://cdn-icons-png.flaticon.com/512/2231/2231696.png" title="formation" alt="formation" width="30" height="30"/> Formation
 > **Université Paris Decartes (Université Paris Cité - Universite Paris 13)**
 > - Licence Professionnelle Métieres de l'informatique
 > 
 > **Servicio Nacional de Aprendizaje (SENA)**
 >- BTS en Analyse et développement de systèmes d’information 
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_logo.svg/512px-Microsoft_logo.svg.png" title="Microsoft" alt="Microsoft" width="20" height="20"/>  Microsoft Certifications
+### <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" title="Microsoft" alt="Microsoft" width="20" height="20"/>  Microsoft Certifications
  
 > | Badge | Code | Certification |
 > |:--------------:|-----------| ------- |
@@ -67,7 +66,7 @@
 
 > | Badge | Certification | Transcription |
 > |:--------------:|-----------| ------- |
-> | <img src="https://www.databricks.com/en-website-assets/static/dd531b7c1df0e83a608e61defa3e3dec/lakehouse-fundamentals-1660758008.png" title="Databricks" alt="Databricks" width="70" height="90"/>| Acreditation Databricks Lakehouse Fundamentals |[Databricks](https://credentials.databricks.com/3dbf690a-b64c-493f-988c-4e4df31f27d4)|
+> | <img src="https://acortar.link/QMCmPC" title="Databricks" alt="Databricks" width="70" height="90"/>| Acreditation Databricks Lakehouse Fundamentals |[Databricks](https://credentials.databricks.com/3dbf690a-b64c-493f-988c-4e4df31f27d4)|
 > | <img src="https://www.databricks.com/en-website-assets/static/3aefa334ca64a70c7a5cd8dd44812a5f/associate-badge-de-1717145547.png" title="Databricks" alt="Databricks" width="50" height="70"/>   | Databricks Certified Data Engineer Associate |[Databricks](https://credentials.databricks.com/3a385d54-be39-4de0-b27a-222491d976bb#gs.ez3awd) |
 > | <img src="https://miro.medium.com/v2/resize:fit:340/1*y9p2edci3p8jjc-Gt25ULw.png" title="IBM" alt="IBM" width="70" height="70"/>  | Data Engineering Essentials | [IBM](https://www.coursera.org/account/accomplishments/verify/Q83FV5E3Q359) |
 > | <img src="https://eu.images.credential.net/badge/open-graph/p2imjeau_1726152403533_badge.png" title="Scrum" alt="Scrum" width="70" height="70"/>          | Scrum Foundation: Scrum Certification & the Scrum Guide | [Skillsoft](https://skillsoft.digitalbadges.skillsoft.com/42a9e9e0-63fb-4b2a-a79f-b882ea2b018d#gs.ez3i57) |
