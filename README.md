@@ -4,13 +4,46 @@
 ### Experience 
 
 > #### Consultant Data Engineering 2022- Currently
-> **Client:** TotalEnergies:
+> **Client Sector:** Energie:
 > L'outil Talend est mis à disposition des utilisateurs pour qu'ils puissent exécuter leurs tâches dans les services cloud existants, afin d'éviter toute fuite de données hors de l'environnement TotalEnergies.
 > - :gem: **AWS, Azure, Talend, Docker**
 
+
+
+
+
+
 > #### Data Enginer / Analyst 2019 - 2022
-> **Client:** Enedis: 
-> Data Quality projet pour la migration d'une ancienne base de données vers une nouvelle plus performante et sécurisée
+
+> Secteur Public: 2021
+ Migration des rapports Power BI
+ Automatisation des informes Power BI en PDF avec un système de validation en Power Automate
+ Documentation des procédures réalisées.
+
+> Secteur Pharmaceutique: 2021
+ Développement des flows Power Automate pour la transmission des données.
+ Transformation des données dans et architecture medallion, 
+ Alimentation du DWH à destination des rapports Power BI
+
+> Secteur Electricité: 2021
+ Accompagnement à la migration des données et analyses des données avec R.
+ Résolutions des anomalies avec des script SQL implémentées dans les bases des données.
+ Vérification et correction des anomalies Géographiques, 
+
+> Secteur Pétrolier: 2019 - 2020
+ Développement des rapports sur Microsoft Power BI
+ Migrations des rapports Power BI
+ Création des nouvelles templates Power BI
+
+> Secteur Luxe: 2019
+ Développement de rapports sur Power BI
+ Rédaction de procédures pour les utilisateurs au sujet de l’outil.
+
+> Secteur Electricité: 2019
+> Création de une base de données target pou les resultats d'une MEP sur PostgreSQL.
+> Automatisation ETL avec Talend Open Studio for Data Integration
+> Automatisation l'import de données sur Power BI depuis la base PostgreSQL via un connecteur JDBC
+> Améliorer la qualité du rapport Power BI
 > - :gem: **(On-Premises) R, Python, PostgreSQL, Oracle, Talend Open Studio, Power BI**
 
 ### :mortar_board: Formation
