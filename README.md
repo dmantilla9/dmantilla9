@@ -66,10 +66,11 @@
 
 > | Badge | Certification | Transcription |
 > |:--------------:|-----------| ------- |
-> | <img src="https://drive.google.com/file/d/14y1CW40YlSf0wLh8j9v5VfnYCtM2Ksu9/view" title="Databricks" alt="Databricks" width="70" height="90"/>| Acreditation Databricks Lakehouse Fundamentals |[Databricks](https://credentials.databricks.com/3dbf690a-b64c-493f-988c-4e4df31f27d4)|
-> | <img src="https://www.databricks.com/en-website-assets/static/3aefa334ca64a70c7a5cd8dd44812a5f/associate-badge-de-1717145547.png" title="Databricks" alt="Databricks" width="50" height="70"/>   | Databricks Certified Data Engineer Associate |[Databricks](https://credentials.databricks.com/3a385d54-be39-4de0-b27a-222491d976bb#gs.ez3awd) |
+> | <img src="https://github.com/dmantilla9/dmantilla9/blob/Feat_update_profile/images/badges/fundamentals-badge-lakehouse-img.png?raw=true" title="Databricks" alt="Databricks" width="70" height="90"/>| Acreditation Databricks Lakehouse Fundamentals |[Databricks](https://credentials.databricks.com/3dbf690a-b64c-493f-988c-4e4df31f27d4)|
+> | <img src="https://github.com/dmantilla9/dmantilla9/blob/Feat_update_profile/images/badges/Databricks%20Data_Engineer_Associate.png?raw=true" title="Databricks" alt="Databricks" width="75" height="70"/>   | Databricks Certified Data Engineer Associate |[Databricks](https://credentials.databricks.com/3a385d54-be39-4de0-b27a-222491d976bb#gs.ez3awd) |
 > | <img src="https://miro.medium.com/v2/resize:fit:340/1*y9p2edci3p8jjc-Gt25ULw.png" title="IBM" alt="IBM" width="70" height="70"/>  | Data Engineering Essentials | [IBM](https://www.coursera.org/account/accomplishments/verify/Q83FV5E3Q359) |
-> | <img src="https://eu.images.credential.net/badge/open-graph/p2imjeau_1726152403533_badge.png" title="Scrum" alt="Scrum" width="70" height="70"/>          | Scrum Foundation: Scrum Certification & the Scrum Guide | [Skillsoft](https://skillsoft.digitalbadges.skillsoft.com/42a9e9e0-63fb-4b2a-a79f-b882ea2b018d#gs.ez3i57) |
+> | <img src="https://github.com/dmantilla9/dmantilla9/blob/Feat_update_profile/images/badges/Python_Data.png?raw=true" title="IBM" alt="IBM" width="70" height="70"/>  | Data Using Python: Cleaning & Analyzing Data | [Skillsoft](https://skillsoft.digitalbadges.skillsoft.com/65ceffb8-4759-40a0-a547-92cb512839d9#acc.bjOs3Wqk)
+> | <img src="https://github.com/dmantilla9/dmantilla9/blob/Feat_update_profile/images/badges/Scrum%20Foundation%20Scrum%20Certification%20and%20the%20Scrum%20Guide.png?raw=true" title="Scrum" alt="Scrum" width="70" height="70"/>          | Scrum Foundation: Scrum Certification & the Scrum Guide | [Skillsoft](https://skillsoft.digitalbadges.skillsoft.com/42a9e9e0-63fb-4b2a-a79f-b882ea2b018d#gs.ez3i57) |
 
 ### <img src="https://cdn-icons-png.flaticon.com/512/888/888878.png" title="languages" alt="languages" width="20" height="20"/>  Languages
 
