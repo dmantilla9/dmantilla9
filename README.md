@@ -10,7 +10,7 @@
 
 ## 👨‍💻 À propos de moi
 
-Ingénieur Données avec plus de 6 ans d’expérience dans la **data engineering** et l’**analyse de données**, j’ai participé à des projets à fort impact dans des secteurs variés (énergie, santé, luxe, agroalimentaire, secteur public).
+Data Engineer avec plus de 6 ans d’expérience dans la **data engineering** et l’**analyse de données**, j’ai participé à des projets à fort impact dans des secteurs variés (énergie, santé, luxe, agroalimentaire, secteur public).
 
 Actuellement en mission chez **SAFT**, je conçois des architectures de données robustes avec **Azure Data Factory**, **Databricks** et **Power BI**, en suivant l’approche en médaillon (bronze, silver, gold). J’ai aussi développé des compétences solides en **MDS (Master Data Services)**, automatisation avec **Azure Functions**, et déploiement de solutions cloud hybrides.
 
