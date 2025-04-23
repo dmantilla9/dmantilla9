@@ -1,5 +1,11 @@
-## Fernando MANTILLA  👋 :technologist:
-###### Data Engineer at Avanade 
+<table border="0">
+  <tr>
+    <td><img src="https://github.com/dmantilla9/dmantilla9/blob/main/images/assets/Export_GitHub.png" alt="Fernando MANTILLA" width="110" height="115"/></td>
+    <td><strong>Fernando MANTILLA 👋 :technologist: </strong><br/> Data Engineer at Avanade  </td>
+  </tr>
+</table>
+
+  
 
 
 ## 👨‍💻 À propos de moi
