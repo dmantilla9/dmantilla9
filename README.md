@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td><img src="https://github.com/dmantilla9/dmantilla9/blob/main/images/assets/Export_GitHub.png" alt="Fernando MANTILLA" width="110" height="115"/></td>
-    <td><strong>Fernando MANTILLA 👋 :technologist: </strong><br/> Data Engineer at Avanade  </td>
+    <td><strong>Fernando MANTILLA 👋 :technologist: </strong><br/> Data Engineer at ORANGE OBS  </td>
   </tr>
 </table>
 
@@ -12,7 +12,7 @@
 
 Data Engineer avec plus de 6 ans d’expérience dans la **data engineering** et l’**analyse de données**, j’ai participé à des projets à fort impact dans des secteurs variés (énergie, santé, luxe, agroalimentaire, secteur public).
 
-Actuellement en mission chez **SAFT**, je conçois des architectures de données robustes avec **Azure Data Factory**, **Databricks** et **Power BI**, en suivant l’approche en médaillon (bronze, silver, gold). J’ai aussi développé des compétences solides en **MDS (Master Data Services)**, automatisation avec **Azure Functions**, et déploiement de solutions cloud hybrides.
+Actuellement en mission chez **SOLAY**, je conçois des architectures de données robustes avec **Microsoft Fabric**, et **Power BI**, en suivant l’approche en médaillon (bronze, silver, gold). automatisation , et déploiement de solutions cloud.
 
 Mon parcours chez **Avanade France** m’a permis d’intervenir auprès de clients comme **TotalEnergies, Danone, Nexans, Enedis, IPSEN, Schlumberger, CNAV, Shiseido**, entre autres, où j’ai assumé des rôles d’**analyste, développeur Power BI** et **ingénieur data**, en autonomie comme en équipe agile.
 
