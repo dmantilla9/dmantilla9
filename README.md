@@ -9,7 +9,7 @@
 
 ## À propos de moi
 
-Data Engineer avec plus de 6 ans d’expérience dans l’ingénierie et l’analyse de données, spécialisé dans la conception, le développement et l’industrialisation de solutions Data.
+Data Engineer avec plus de 8 ans d’expérience dans l’ingénierie et l’analyse de données, spécialisé dans la conception, le développement et l’industrialisation de solutions Data.
 
 Mon parcours professionnel m’a amené à intervenir dans différents secteurs d’activité : énergie, industrie, santé, luxe, agroalimentaire et secteur public, auprès de clients tels que **TotalEnergies, Danone, Nexans, Enedis, IPSEN, Schlumberger, CNAV, Shiseido et Solvay**.
 
