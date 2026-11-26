@@ -7,16 +7,33 @@
 
   
 
+## À propos de moi
 
-## 👨‍💻 À propos de moi
+Data Engineer avec plus de 6 ans d’expérience dans l’ingénierie et l’analyse de données, spécialisé dans la conception, le développement et l’industrialisation de solutions Data.
 
-Data Engineer avec plus de 6 ans d’expérience dans la **data engineering** et l’**analyse de données**, j’ai participé à des projets à fort impact dans des secteurs variés (énergie, santé, luxe, agroalimentaire, secteur public).
+Mon parcours professionnel m’a amené à intervenir dans différents secteurs d’activité : énergie, industrie, santé, luxe, agroalimentaire et secteur public, auprès de clients tels que **TotalEnergies, Danone, Nexans, Enedis, IPSEN, Schlumberger, CNAV, Shiseido et Solvay**.
 
-Actuellement en mission chez **SOLAY**, je conçois des architectures de données robustes avec **Microsoft Fabric**, et **Power BI**, en suivant l’approche en médaillon (bronze, silver, gold). automatisation , et déploiement de solutions cloud.
+Au fil de ces expériences, j’ai évolué de la Business Intelligence vers le Data Engineering, jusqu’à exercer des responsabilités de **Tech Lead au sein d’une Squad Data sur Microsoft Fabric**.
 
-Mon parcours chez **Avanade France** m’a permis d’intervenir auprès de clients comme **TotalEnergies, Danone, Nexans, Enedis, IPSEN, Schlumberger, CNAV, Shiseido**, entre autres, où j’ai assumé des rôles d’**analyste, développeur Power BI** et **ingénieur data**, en autonomie comme en équipe agile.
+Mon périmètre d’intervention couvre différentes étapes du cycle de vie de la donnée :
 
-💡 Je suis passionné par la **qualité des données**, l’**automatisation intelligente** et la **transformation numérique** orientée données. Mon objectif est d’apporter de la valeur concrète grâce à la data.
+- Conception et mise en œuvre d’architectures Data.
+- Développement et orchestration de pipelines d’ingestion et de transformation.
+- Modélisation et optimisation des données.
+- Industrialisation et automatisation des traitements.
+- Qualité, gouvernance et fiabilité des données.
+- Développement de modèles sémantiques et de solutions décisionnelles.
+
+Mes responsabilités de **Tech Lead** comprennent également :
+
+- Coordination technique et accompagnement des Data Engineers.
+- Participation aux choix d’architecture et aux décisions techniques.
+- Définition et standardisation des pratiques de développement.
+- Revue de code et suivi de la qualité des livrables.
+- Contribution à l’amélioration continue des processus de développement et de déploiement.
+- Collaboration avec les architectes, les équipes fonctionnelles et les parties prenantes du projet.
+
+J’interviens principalement sur les environnements **Microsoft Fabric, Azure, Apache Spark, PySpark, Python, SQL et Power BI**, en intégrant les pratiques DevOps et CI/CD, avec une approche orientée vers la maintenabilité, la performance et la standardisation des solutions.
 
 ## 🧰 Compétences principales
 
